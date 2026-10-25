@@ -16,7 +16,7 @@ By leveraging AI, EduSphere ingests university syllabi and lecture slides, break
 ## ✨ Key Features
 
 * **📄 Lecture & Syllabus Parsing:** Upload course materials (PDFs, slides) and automatically extract key concepts, technical competencies, and learning outcomes.
-* **🗺️ Dynamic 4-Year Roadmaps:** Convert degree requirements into visual, step-by-step career execution paths tailored to your target industry.
+* **🗺️ Dynamic 4+ Year Roadmaps:** Convert degree requirements into visual, step-by-step career execution paths tailored to your target industry.
 * **🌳 Skill Tree Visualization:** Track your progress through interactive skill nodes as you complete coursework and personal projects.
 * **🧠 Adaptive Quiz Generation:** Generate custom practice quizzes directly from your class slides to prepare for exams and technical interviews.
 * **🎯 Specialization Matching:** Discover specialized career tracks based on your strengths, academic performance, and personal interests.
